@@ -1,7 +1,10 @@
 .DS_Store
 build
+.build
 xcuserdata
 *.mode*
 *.pbxuser
 *.xcuserdatad
 *.xccheckout
+
+Packages
